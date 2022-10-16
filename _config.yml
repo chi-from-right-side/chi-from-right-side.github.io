@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/high_toned
 author: kakucho
 description: 仲良しアラサー男子のヘラヘララジオ
-description_long: Example long description
+description_long: 格調高く・ルーム長のアラサー男子2人が最近感じた"良いこと"をヘラヘラしながらお話するラジオです。
 email: migikara.chi@gmail.com
 exclude:
   - docker
@@ -22,7 +22,7 @@ exclude:
 google_analytics:
 hashtag: ミギチー
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: 
 language: ja
 markdown: kramdown
 permalink: /episode/:title
@@ -30,4 +30,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: 右からチーする
-url: http://example.com
+url: https://chi-from-right-side.github.io/
