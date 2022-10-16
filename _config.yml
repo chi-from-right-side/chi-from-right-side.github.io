@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/high_toned
 author: kakucho
 description: 仲良しアラサー男子のヘラヘララジオ
-description_long: 格調高く・ルーム長のアラサー男子2人が最近感じた"良いこと"をヘラヘラしながらお話するラジオです。
+description_long: 格調高く・ルーム長のアラサー男子2人が最近感じた"良いこと"をヘラヘラしながらお話するラジオ
 email: migikara.chi@gmail.com
 exclude:
   - docker
