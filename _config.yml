@@ -8,7 +8,7 @@ actors:
     name: kakucho
     url: https://twitter.com/high_toned
 author: kakucho
-description: Example description
+description: 仲良しアラサー男子のヘラヘララジオ
 description_long: Example long description
 email: migikara.chi@gmail.com
 exclude:
@@ -20,7 +20,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: ミギチー
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
